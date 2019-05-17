@@ -58,7 +58,6 @@ export class EstudiantesComponent implements OnInit {
 
   editarEstudiante(i){
     console.log('Editando estudiante '+i);
-    console.log('Logica de actualizacion de estudiantes');
   }
 
 }
